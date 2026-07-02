@@ -2,7 +2,7 @@
 
 # Bhupesh Santha Kumar
 
-### Full Stack Developer | AI Enthusiast | Computer Science Student
+### Full Stack Developer
 
 I enjoy building scalable web applications, AI-powered solutions, and solving algorithmic problems. My interests include artificial intelligence, machine learning, cybersecurity, and full-stack development.
 
@@ -99,15 +99,15 @@ I enjoy building scalable web applications, AI-powered solutions, and solving al
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bhupesh360&show_icons=true&theme=dark&hide_border=false&border_radius=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bhupesh-S&show_icons=true&theme=dark&hide_border=false&border_radius=8" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh360&layout=compact&theme=dark&hide_border=false&border_radius=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh-S&layout=compact&theme=dark&hide_border=false&border_radius=8" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Bhupesh360&theme=dark&hide_border=false&border_radius=8"/>
+<img src="https://streak-stats.demolab.com?user=Bhupesh-S&theme=dark&hide_border=false&border_radius=8"/>
 
 </div>
 
@@ -121,7 +121,7 @@ I enjoy building scalable web applications, AI-powered solutions, and solving al
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
-<a href="https://github.com/Bhupesh360">
+<a href="https://github.com/Bhupesh-S">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -137,7 +137,7 @@ I enjoy building scalable web applications, AI-powered solutions, and solving al
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupesh360&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupesh-S&theme=github-compact"/>
 
 </div>
 
@@ -145,6 +145,6 @@ I enjoy building scalable web applications, AI-powered solutions, and solving al
 
 <div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Bhupesh360.Bhupesh360"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Bhupesh-S.Bhupesh-S"/>
 
 </div>
