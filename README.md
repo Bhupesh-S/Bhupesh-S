@@ -76,8 +76,6 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
 <img width="10" />
-<img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="Socket.IO" />
-<img width="10" />
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="REST API / Postman" />
 
 <br><br>
@@ -97,8 +95,6 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
 <img width="10" />
@@ -124,6 +120,16 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
+<br>
+<br>
+
+## LeetCode Statistics
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/BhupeshS?theme=dark&font=Fira%20Code&ext=contest" />
+
+</div>
 <br>
 
 ## GitHub Statistics
