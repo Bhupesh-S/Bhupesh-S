@@ -18,17 +18,19 @@ I'm a Computer Science and Engineering student from India, building scalable web
 -  CSE student, always learning new technologies and sharpening problem-solving skills through coding challenges
 -  Focused on building software that solves real-world problems
 -  Actively exploring computer vision, deep learning, and secure system design
-
+  
 <br>
 
-## Currently Building
+## Featured Projects
 
 | Project | Description |
 |---|---|
-| **Secure Password Manager** | A password manager with encryption and authentication built in |
-| **Conversational Image Recognition Chatbot** | Integrates RT-DETR, CLIP, YOLO, and NLP models for visual + text understanding |
-| **Electronic Components E-Learning Platform** | Built with HTML, CSS, JavaScript, PHP, and MySQL |
-| **Reverse ProxiBrake** | An automated reverse braking system for vehicles |
+| **SevaTrack** | A civic issue reporting and tracking platform that enables citizens to report public issues, monitor their status, and improve communication with authorities. |
+| **Farm Stellar** | A smart agriculture platform that helps farmers manage crops, access agricultural resources, and improve productivity through modern web technologies. |
+| **Tex-Weave-Impex** | A business website for a textile company showcasing products, company information, and inquiry management. |
+| **CrowdFunding** | A crowdfunding platform that allows users to create fundraising campaigns, contribute securely, and track donations. |
+| **Hospital Management System** | A Java-based application for managing patient records, appointments, doctors, billing, and hospital operations. |
+| **SmartShop-AI** | An AI-powered shopping platform featuring intelligent product recommendations and an enhanced e-commerce experience. |
 
 <br>
 
@@ -43,6 +45,7 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <div align="left">
 
 <!-- Languages -->
+## Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -54,7 +57,7 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 
 <br><br>
-
+## Frontend
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 <img width="10" />
@@ -67,7 +70,7 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
 
 <br><br>
-
+## Backend
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 <img width="10" />
@@ -78,14 +81,14 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="REST API / Postman" />
 
 <br><br>
-
+## Database
 <!-- Database -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
 
 <br><br>
-
+## AI/ML
 <!-- AI / ML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
 <img width="10" />
@@ -104,7 +107,7 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" />
 
 <br><br>
-
+## Tools
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img width="10" />
