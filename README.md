@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Bhupesh+Santha+Kumar;Full+Stack+Developer" alt="Typing SVG" />
 
 <p>
@@ -43,7 +42,7 @@ I'm a Computer Science and Engineering student from India, building scalable web
 
 ## Areas of Interest
 
-`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Cybersecurity` · `Backend Development` · `Cloud Computing`
+`Artificial Intelligence` · `Machine Learning` · `Cybersecurity` ·
 
 ---
 
@@ -98,22 +97,17 @@ I'm a Computer Science and Engineering student from India, building scalable web
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bhupesh-S&show_icons=true&theme=dark&hide_border=false&border_radius=8&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupesh-S&layout=compact&theme=dark&hide_border=false&border_radius=8" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Bhupesh-S&theme=dark&hide_border=false&border_radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupesh-S&theme=github-compact&hide_border=false&radius=8" width="95%" />
 
 </div>
 
 ---
 
+<div align="center">
 
 ### Let's connect and build something great.
 
@@ -124,7 +118,9 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <a href="https://leetcode.com/u/BhupeshS/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-<br>
+
+<br><br>
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Bhupesh-S.Bhupesh-S" alt="visitor badge" />
 
 </div>
