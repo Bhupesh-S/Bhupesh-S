@@ -114,17 +114,6 @@ I'm a Computer Science and Engineering student from India, building scalable web
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupesh-S&theme=github-compact&hide_border=false&radius=8" width="95%" />
-
-</div>
-
----
-
-<div align="center">
 
 ### Let's connect and build something great.
 
@@ -135,9 +124,7 @@ I'm a Computer Science and Engineering student from India, building scalable web
 <a href="https://leetcode.com/u/BhupeshS/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-
-<br><br>
-
+<br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Bhupesh-S.Bhupesh-S" alt="visitor badge" />
 
 </div>
